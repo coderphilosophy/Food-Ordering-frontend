@@ -1,6 +1,6 @@
 # Food Ordering Frontend
 
-- [Backend Repo](https://github.com/coderphilosophy/Backend)
+- [Backend Repo](https://github.com/coderphilosophy/Food-Ordering-backend)
 
 
 
